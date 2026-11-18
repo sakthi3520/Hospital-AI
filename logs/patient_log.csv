@@ -1,0 +1,20 @@
+timestamp,date,name,age,gender,blood_group,symptoms_text,condition
+2026-09-29 12:46:39,2026-09-29,Poovendhan,20,Male,O+,Fever,acute bronchitis
+2026-09-29 12:57:56,2026-09-29,Jay,45,Male,AB+,Stomach pain,esophagitis
+2026-09-30 09:36:13,2026-09-30,Sakthi,21,Female,B-,Headache,strep throat
+2026-09-30 10:07:50,2026-09-30,Kee,18,Female,AB+,enakku fever,acute bronchitis
+2026-09-30 10:27:24,2026-09-30,Sakthi,22,Female,O+,i have heart pain,anxiety
+2026-09-30 11:22:10,2026-09-30,Sakthi,21,Female,AB-,i have heart pain,anxiety
+2026-09-30 11:46:54,2026-09-30,Nalan,15,Male,B+,i have stomach pain,esophagitis
+2026-10-14 15:47:11,2026-10-14,Sakthi,20,Female,AB+,Fever,acute bronchitis
+2026-10-14 16:08:02,2026-10-14,Ash,19,Female,B-,Fever,acute bronchitis
+2026-10-14 16:52:04,2026-10-14,Aravi,23,Male,A-,Fever,acute bronchitis
+2026-10-15 09:32:24,2026-10-15,Sakthi,22,Female,O+,Fever,acute bronchitis
+2026-10-15 09:35:09,2026-10-15,Ashvini,21,Female,A-,Headache,strep throat
+2026-10-15 09:46:07,2026-10-15,Hi,14,Female,B-,Fever,acute bronchitis
+2026-10-15 10:01:59,2026-10-15,Jj,14,Male,I don't know,Fever,acute bronchitis
+2026-10-15 11:24:58,2026-10-15,Del,13,Female,B-,Stomach pain,esophagitis
+2026-10-15 14:22:54,2026-10-15,Sakti,20,Female,O-,Headache,strep throat
+2026-10-15 14:28:47,2026-10-15,Venu,14,Male,B+,Stomach pain,esophagitis
+2026-10-15 14:33:35,2026-10-15,Sasi,27,Female,A-,Cold and cough,common cold
+2026-10-15 14:52:23,2026-10-15,Sakthi,20,Female,AB+,Headache,strep throat
